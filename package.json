@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
     "msw": "^2.6.6"
   },
   "engines": {
